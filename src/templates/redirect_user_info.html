@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+      window.onload = function() {
+        const userinfo = {{ userinfo | tojson }};
+        const targetOrigin = "http://localhost:3000";  // Set the correct frontend URL
+        window.opener.postMessage(userinfo, targetOrigin);
+        window.close();  // Close the window after sending the data
+      };
+    </script>
+  </head>
+  <body>
+    Redirecting...
+  </body>
+</html>
