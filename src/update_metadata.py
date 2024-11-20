@@ -116,17 +116,17 @@ def add_latest_to_sessions(previous_sessions, latest_session):
 # Get own user info
 print("Getting own user info...")
 user_me = get_metadata("users/me")
-print(f"\tMy provider-id: {user_me['provider_id']}")
+# print(f"\tMy provider-id: {user_me['provider_id']}")
 
 # Get data users
 print("Getting data users...")
 data_users = get_metadata("data_users")
-print(f"\tData users: {data_users}")
+# print(f"\tData users: {data_users}")
 
 # Get projects
 print("Getting projects...")
 projects = get_metadata("projects")
-print(f"\tProjects: {projects}")
+# print(f"\tProjects: {projects}")
 
 
 # (1) Get providers
@@ -149,7 +149,7 @@ friendly_providers = [
     }
     for p in providers if p["friendly_name"] in temp_provider_friendly_names
 ]
-print(f"\t{friendly_providers}")
+# print(f"\t{friendly_providers}")
      
 
 # (2) Get and filter sessions
@@ -180,7 +180,7 @@ new_sessions = [
 if len(new_sessions) == 0:
     sys.exit(f"No new active sessions found, exiting process.")
 
-print(f"\t{new_sessions}")
+# print(f"\t{new_sessions}")
 
 
 
@@ -224,8 +224,8 @@ for s in new_sessions:
             # - Get associated hostname: hostname = sessions[i]["events"][j]["profiles"][k]["endpoint"]["hostname"]
             hostname = profile["endpoint"]["hostname"]
             # - Get associated friendly name from known list: providers["hostname"] == hostname
-            providers = [fp for fp in friendly_providers if fp["hostname"] == hostname]
-            provider = providers[0]
+            pproviders = [fp for fp in friendly_providers if fp["hostname"] == hostname]
+            provider = pproviders[0]
             new_ses["provider"] = provider["friendly_name"]
             
             # Now process metadata
@@ -275,6 +275,8 @@ if overview_metadata_added:
     write_json_to_file(overview_metadata, overview_metadata_path)
 if file_metadata_added or subject_metadata_added or overview_metadata_added:
     write_json_to_file(existing_sessions, _sesspath)
+
+print("Process of updating metadata completed.")
 
 # # -----
 # # Notes

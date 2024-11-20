@@ -29721,5 +29721,7309 @@
             "primary": 0,
             "derivative": 0
         }
+    },
+    {
+        "subject": "sub-gutseur0212",
+        "session": "01",
+        "age": 8,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0444",
+        "session": "01",
+        "age": 8,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0002",
+        "session": "01",
+        "age": 8,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0003",
+        "session": "01",
+        "age": 7,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0006",
+        "session": "01",
+        "age": 8,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0009",
+        "session": "01",
+        "age": 7,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0017",
+        "session": "01",
+        "age": 8,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0022",
+        "session": "01",
+        "age": 7,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0025",
+        "session": "01",
+        "age": 7,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0026",
+        "session": "01",
+        "age": 7,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
+    },
+    {
+        "subject": "sub-gutseur0068",
+        "session": "01",
+        "age": 7,
+        "cohort": "eur",
+        "demographics": 0,
+        "participation": 0,
+        "amindset": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "arisktaking": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "srqa": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "audit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ai": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "subsuse": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bisbas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cope": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bscs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "csrq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "css": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegrest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "emque": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ethnocentrism": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "exitsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrirest": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmrisddt": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmritrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmrireward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fmriempathy": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "fmps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soep": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "haircort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "harddrugs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ios": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ippad": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ius": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kjts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mwys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "networks": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nvs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nrispv": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nriparent": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "o2s3": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "opbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "discrimation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "inequality": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "prt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pbq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "raven": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "spinner": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadheas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivadna": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "salivatesto": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behtrust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sdq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "smri": {
+            "primary": 1,
+            "derivative": 0
+        },
+        "pops": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "iri": {
+            "primary": 1,
+            "derivative": 1
+        },
+        "trust": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ypi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "yqol": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cms": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "shaps": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ih": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scared": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "behgonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeggonogo": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankeralone": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegflankersoc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eegsocialreward": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "trustpartners": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "selfdisclosure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmregulation": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmmood": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmrelationships": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmselfesteem": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmsddt": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmpressure": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmstressor": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "esmwhereabouts": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dynosocialeffort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "abs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ads": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "agq/achgls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dd": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bis11": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bbi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bsci/bsci-y": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "crs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "dospert/dospert-hsf": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-met": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda-rest": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "education-level": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "feel-kj": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "finances/fin-sit": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stress/fin-stress": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "financial-stressors/strssr": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gad/gad7": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-theory/miti": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "life-events": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "math-effort": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "met/metgq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mas": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "phq9": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pcuq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "perceived-control": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pu": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pre-asc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rtls": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fb": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sbi/sburn": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sfts/sft": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "school-performance": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scc": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "self-concept": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eda": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "money-value/sub-mon": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "who": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "nbs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "psqi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sgm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fomos": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sex-identity": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "gis": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ifs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "isi": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "mss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obs": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ortq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ppg": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "scp": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "soss": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialinfluence": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "socialmedia": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sociometric": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "aisi --> aisi-a & aisi-b": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sensations": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "bpm": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "cbcl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "fbs --> fbs-v & fbs-p": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-action": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-gaze": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-thought": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "joys": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "kapnah": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "hyper-eeg-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-mirror": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "obvl": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "pms-pk": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "police": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rpq": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rta": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_n": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "rsj_z": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "sds": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "beh-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "eeg-snat": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "ffcws": {
+            "primary": 0,
+            "derivative": 0
+        },
+        "tas": {
+            "primary": 0,
+            "derivative": 0
+        }
     }
 ]
