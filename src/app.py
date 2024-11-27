@@ -1,3 +1,11 @@
+# Check env file
+from pathlib import Path
+repo_path = Path(__file__).resolve().parent.parent
+
+if not (repo_path / ".env" ).exists():
+    raise ValueError("No '.env' file find in backend root directory; this file is required")
+
+# Imports
 from api_utils import (
     load_metadata,
 )
@@ -19,7 +27,7 @@ from oidc_utils import (
     revoke_oidc_token,
     get_auth_url,
 )
-from pathlib import Path
+
 from neptune_utils import (
     check_user,
     delete_user,
@@ -27,8 +35,7 @@ from neptune_utils import (
     create_neptune_data_request,
 )
 
-repo_path = Path(__file__).resolve().parent.parent
-
+# Setup flask app
 app = Flask(__name__)
 
 # Load configuration from config.py
@@ -43,8 +50,8 @@ app.secret_key = app.config['FLASK_SECRET_KEY']
 # Add CORS to allow requests from frontend
 CORS(app, origins=[app.config['FRONTEND_URL']], supports_credentials=True)
 
-# API
 
+# API
 @app.route('/api/user/<email>', methods=['GET', 'POST', 'DELETE'])
 def user(email):
     """"""
