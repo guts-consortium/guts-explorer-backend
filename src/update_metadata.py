@@ -82,7 +82,7 @@ known_meta_types = [
     "measure-overview",
 ]
 
-ignore_ids = ["66c8a11092502b24dcf74fa9"]
+ignore_ids = []
 
 provider_friendly_names = ["eur", "lei", "vu", "aumc"]
 temp_provider_mapping = {
@@ -141,15 +141,18 @@ except Exception as e:
 # Isolate providers with known friendly names: providers[i]["friendly_name"]
 # - assuming these all have a single endpoint [!]
 # - direct mapping to endpoints
+print("Providers:")
+print(providers)
 friendly_providers = [
     {
         "_id": p["_id"],
         "friendly_name": temp_provider_mapping[p["friendly_name"]],
-        "hostname": p["endpoints"][0]["hostname"]
+        "hostname": p["endpoints"][0]["hostname"].strip()
     }
     for p in providers if p["friendly_name"] in temp_provider_friendly_names
 ]
-# print(f"\t{friendly_providers}")
+print("Friendly providers:")
+print(f"\t{friendly_providers}")
      
 
 # (2) Get and filter sessions
@@ -186,6 +189,7 @@ if len(new_sessions) == 0:
 
 # (3) Merge and save metadata
 # ---------------------------
+available_providers = []
 file_metadata = []
 subject_metadata = []
 overview_metadata = []
@@ -222,11 +226,14 @@ for s in new_sessions:
             profiles = [p for p in s["profiles"] if p["tag"] == profile_tag]
             profile = profiles[0]
             # - Get associated hostname: hostname = sessions[i]["events"][j]["profiles"][k]["endpoint"]["hostname"]
-            hostname = profile["endpoint"]["hostname"]
+            hostname = profile["endpoint"]["hostname"].strip()
+            print(hostname)
             # - Get associated friendly name from known list: providers["hostname"] == hostname
             pproviders = [fp for fp in friendly_providers if fp["hostname"] == hostname]
             provider = pproviders[0]
             new_ses["provider"] = provider["friendly_name"]
+            if new_ses["provider"] not in available_providers:
+                available_providers.append(new_ses["provider"])
             
             # Now process metadata
             # Metadata item must be of known types:
@@ -275,6 +282,10 @@ if overview_metadata_added:
     write_json_to_file(overview_metadata, overview_metadata_path)
 if file_metadata_added or subject_metadata_added or overview_metadata_added:
     write_json_to_file(existing_sessions, _sesspath)
+
+
+if len(available_providers) < 2:
+    print("WARNING: Active session(s) only from 1 provider, i.e. request creation to several providers cannot be tested.")
 
 print("Process of updating metadata completed.")
 
