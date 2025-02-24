@@ -1,0 +1,22 @@
+# Use Python as the base image
+FROM python:3.11
+
+# Set working directory
+WORKDIR /app
+
+# Install cron
+RUN apt-get update && apt-get install -y cron
+
+# Copy requirements.txt and install dependencies
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of the app
+COPY . .
+
+# Copy entrypoint script
+COPY update_metadata_entrypoint.sh /app/update_metadata_entrypoint.sh
+RUN chmod +x /app/update_metadata_entrypoint.sh
+
+# Start cron job for metadata updater
+ENTRYPOINT ["/app/update_metadata_entrypoint.sh"]
