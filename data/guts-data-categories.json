@@ -1,0 +1,84 @@
+{
+    "data-categories": [
+        {
+            "category": "parenting",
+            "description": "Data related to parent-child interactions, parenting styles, parental involvement, and household dynamics. This can include self-reports, observational measures, or parent-reported questionnaires."
+        },
+        {
+            "category": "risk-taking",
+            "description": "Measures of willingness to engage in risky behaviors, including decision-making under uncertainty, sensation-seeking, and real-world behaviors like substance use or unsafe driving."
+        },
+        {
+            "category": "academics",
+            "description": "Data on educational performance, learning behaviors, academic motivation, and attitudes toward school. This can include grades, standardized test scores, and self-reported study habits."
+        },
+        {
+            "category": "social-relations",
+            "description": "Information about interpersonal relationships, friendships, peer interactions, and social support networks. This includes quality, quantity, and stability of relationships."
+        },
+        {
+            "category": "ego-networks",
+            "description": "Data focused on an individual\u2019s direct social connections, such as who they interact with, the strength of those ties, and how they perceive their personal network."
+        },
+        {
+            "category": "social-networks",
+            "description": "Broader data on social structures and group interactions, including network size, connectivity, and influence of social groups on behavior and decision-making."
+        },
+        {
+            "category": "self-regulation",
+            "description": "Measures of impulse control, emotional regulation, attentional control, and goal-directed behavior. This can include self-reports, behavioral tasks, and physiological measures."
+        },
+        {
+            "category": "mental-wellbeing",
+            "description": "Data related to psychological health, emotional stability, life satisfaction, and stress levels. This can include self-reported well-being, anxiety, depression, and resilience measures."
+        },
+        {
+            "category": "societal-outcomes",
+            "description": "Information on long-term impacts of individual behaviors and experiences on broader social factors, such as employment, civic engagement, socioeconomic mobility, and legal outcomes."
+        },
+        {
+            "category": "empathy",
+            "description": "Measures of emotional and cognitive empathy, including perspective-taking, emotional contagion, and prosocial responses to others\u2019 emotions."
+        },
+        {
+            "category": "aggression",
+            "description": "Data on hostile or violent behaviors, including physical, verbal, and relational aggression, as well as impulsivity and anger regulation."
+        },
+        {
+            "category": "risk-factors",
+            "description": "Data on variables that increase the likelihood of negative outcomes, such as adverse childhood experiences, socioeconomic status, family history, and environmental stressors."
+        },
+        {
+            "category": "social-media",
+            "description": "Data on online interactions, usage patterns, digital communication, and social media engagement, including its effects on mental health, social relationships, and behavior."
+        },
+        {
+            "category": "environmental-factors",
+            "description": " Information on physical and social environments, such as neighborhood safety, pollution exposure, urban vs. rural living, and access to resources."
+        },
+        {
+            "category": "prosocial-behavior",
+            "description": "Measures of helping, sharing, cooperation, and altruism, often assessed through self-reports, behavioral tasks, or observational data."
+        },
+        {
+            "category": "background",
+            "description": "Demographic and contextual data, including age, gender, ethnicity, socioeconomic status, family composition, and cultural background."
+        },
+        {
+            "category": "physical-wellbeing",
+            "description": "Data related to health behaviors, physical fitness, sleep patterns, nutrition, and overall physiological health."
+        },
+        {
+            "category": "biological",
+            "description": "Data related to genetics, hormonal levels, neurobiological markers, and physiological measures that influence behavior and development."
+        },
+        {
+            "category": "decision-making",
+            "description": "Measures of how individuals make choices under uncertainty, risk, or competing priorities, often assessed through behavioral tasks, cognitive tests, and self-reports."
+        },
+        {
+            "category": "financial-factors",
+            "description": "Information on economic stability, financial decision-making, spending habits, and financial literacy, including the impact of financial stress on behavior and well-being."
+        }
+    ]
+}

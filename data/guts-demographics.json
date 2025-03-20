@@ -1,0 +1,45 @@
+{
+    "demographics": {
+      "age": {
+        "long_name": "Age",
+        "description": "Age-related variables, including date of birth and age in years.",
+        "variables": ["age_dob", "age_years"]
+      },
+      "gender": {
+        "long_name": "Gender",
+        "description": "Gender-related variables, including assigned sex and self-reported gender identity.",
+        "variables": ["sex", "gender_q01", "gender_q02", "gender_q03"]
+      },
+      "livingsit": {
+        "long_name": "Living Situation",
+        "description": "Living situation, including upbringing, province, city, family structure, and housing.",
+        "variables": ["upbringing", "living_province", "living_city", "living_familysit", "living_housingsit", "living_housetype"]
+      },
+      "ethnicity": {
+        "long_name": "Ethnicity",
+        "description": "Ethnicity and country of origin, covering multiple generations and self-reported ethnic background.",
+        "variables": ["country_q01", "country_q02_1", "country_q02_2", "country_q02_3", "country_q02_4", "country_q02_5", "country_q02_6", "ethnicity_q01", "ethnicity_q02", "ethnicity_q03"]
+      },
+      "health": {
+        "long_name": "Health",
+        "description": "Health-related variables, including current and past diagnoses, treatments, and medications.",
+        "variables": ["health_diagn_now", "health_diagn_past", "health_treatment", "health_diagn_fys", "health_medication"]
+      },
+      "education": {
+        "long_name": "Education",
+        "description": "Education history and related information.",
+        "variables": ["edu_q01", "edu_q02", "edu_q03", "edu_q04", "edu_q05", "edu_q06"]
+      },
+      "ses": {
+        "long_name": "Socioeconomic Status",
+        "description": "Socioeconomic status (SES), including financial situation, cultural capital, and subjective social status.",
+        "variables": ["ses_q01_1", "ses_q01_2", "ses_q01_3", "ses_q01_4", "ses_q01_5", "ses_q01_6", "ses_q02", "ses_q03", "ses_q04", "ses_q05", "ses_q06", "ses_q07", "ses_q08", "ses_q09", "ses_sss_q02", "ses_poverty", "ses_poverty_past", "ses_culturalcap"]
+      },
+      "romrelation": {
+        "long_name": "Romantic Relationships",
+        "description": "Romantic relationships, including past and current relationship status.",
+        "variables": ["roman_q01", "roman_q02", "roman_q03", "roman_q04"]
+      }
+    }
+  }
+  
