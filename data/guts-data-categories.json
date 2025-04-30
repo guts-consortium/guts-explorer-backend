@@ -1,0 +1,62 @@
+{
+    "parenting": {
+        "description": "Data related to parent-child interactions, parenting styles, parental involvement, and household dynamics. This can include self-reports, observational measures, or parent-reported questionnaires."
+    },
+    "risk-taking": {
+        "description": "Measures of willingness to engage in risky behaviors, including decision-making under uncertainty, sensation-seeking, and real-world behaviors like substance use or unsafe driving."
+    },
+    "academics": {
+        "description": "Data on educational performance, learning behaviors, academic motivation, and attitudes toward school. This can include grades, standardized test scores, and self-reported study habits."
+    },
+    "social-relations": {
+        "description": "Information about interpersonal relationships, friendships, peer interactions, and social support networks. This includes quality, quantity, and stability of relationships."
+    },
+    "ego-networks": {
+        "description": "Data focused on an individual\u2019s direct social connections, such as who they interact with, the strength of those ties, and how they perceive their personal network."
+    },
+    "social-networks": {
+        "description": "Broader data on social structures and group interactions, including network size, connectivity, and influence of social groups on behavior and decision-making."
+    },
+    "self-regulation": {
+        "description": "Measures of impulse control, emotional regulation, attentional control, and goal-directed behavior. This can include self-reports, behavioral tasks, and physiological measures."
+    },
+    "mental-wellbeing": {
+        "description": "Data related to psychological health, emotional stability, life satisfaction, and stress levels. This can include self-reported well-being, anxiety, depression, and resilience measures."
+    },
+    "societal-outcomes": {
+        "description": "Information on long-term impacts of individual behaviors and experiences on broader social factors, such as employment, civic engagement, socioeconomic mobility, and legal outcomes."
+    },
+    "empathy": {
+        "description": "Measures of emotional and cognitive empathy, including perspective-taking, emotional contagion, and prosocial responses to others\u2019 emotions."
+    },
+    "aggression": {
+        "description": "Data on hostile or violent behaviors, including physical, verbal, and relational aggression, as well as impulsivity and anger regulation."
+    },
+    "risk-factors": {
+        "description": "Data on variables that increase the likelihood of negative outcomes, such as adverse childhood experiences, socioeconomic status, family history, and environmental stressors."
+    },
+    "social-media": {
+        "description": "Data on online interactions, usage patterns, digital communication, and social media engagement, including its effects on mental health, social relationships, and behavior."
+    },
+    "environmental-factors": {
+        "description": " Information on physical and social environments, such as neighborhood safety, pollution exposure, urban vs. rural living, and access to resources."
+    },
+    "prosocial-behavior": {
+        "description": "Measures of helping, sharing, cooperation, and altruism, often assessed through self-reports, behavioral tasks, or observational data."
+    },
+    "background": {
+        "description": "Demographic and contextual data, including age, gender, ethnicity, socioeconomic status, family composition, and cultural background."
+    },
+    "physical-wellbeing": {
+        "description": "Data related to health behaviors, physical fitness, sleep patterns, nutrition, and overall physiological health."
+    },
+    "biological": {
+        "description": "Data related to genetics, hormonal levels, neurobiological markers, and physiological measures that influence behavior and development."
+    },
+    "decision-making": {
+        "description": "Measures of how individuals make choices under uncertainty, risk, or competing priorities, often assessed through behavioral tasks, cognitive tests, and self-reports."
+    },
+    "financial-factors": {
+        "description": "Information on economic stability, financial decision-making, spending habits, and financial literacy, including the impact of financial stress on behavior and well-being."
+    }
+}
