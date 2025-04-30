@@ -4,15 +4,16 @@ FROM python:3.11
 # Set working directory
 WORKDIR /app
 
+# Set the PYTHONPATH to /app/backend/src
+ENV PYTHONPATH=/app/backend/src:$PYTHONPATH
+
 # Copy requirements.txt and install dependencies
 COPY requirements.txt ./
+RUN pip install --no-cache-dir --index-url https://pypi.org/simple flask
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the app
 COPY . .
 
-# Expose the port Flask/Gunicorn will run on
-EXPOSE 5000
 
-# Set the default command to run with Gunicorn in production
-CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:5000", "src.app:app"]
+CMD ["python", "-m", "flask", "--app", "src/app", "run"]
