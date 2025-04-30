@@ -149,7 +149,7 @@ def get_metadata(metadata):
     or subject-level metadata. The metadata is loaded from a file
     on the server.
     """
-    if metadata not in ['files', 'measures', 'subjects']:
+    if metadata not in ['files', 'measures', 'subjects', 'cohorts', 'data_types', 'data_categories', 'demographics']:
         abort(404, description=f"No known endpoint: {metadata}")
 
     return jsonify(load_metadata(metadata)), 200

@@ -1,100 +1,98 @@
 {
-  "data_types": [
-    {
-      "name": "behavioral",
-      "abbreviation": "beh",
-      "description": "Data collected from tasks or experiments that assess cognitive, emotional, or social behaviors. This includes reaction times, decision-making tasks, or other performance-based measures.",
-      "subtypes": []
+    "behavioral": {
+        "name": "behavioral",
+        "abbreviation": "beh",
+        "description": "Data collected from tasks or experiments that assess cognitive, emotional, or social behaviors. This includes reaction times, decision-making tasks, or other performance-based measures.",
+        "subtypes": []
     },
-    {
-      "name": "questionnaire",
-      "abbreviation": "quest",
-      "description": "Self-reported or parent-reported data collected through structured surveys or forms. These typically measure psychological traits, attitudes, habits, or experiences.",
-      "subtypes": []
+    "questionnaire": {
+        "name": "questionnaire",
+        "abbreviation": "quest",
+        "description": "Self-reported or parent-reported data collected through structured surveys or forms. These typically measure psychological traits, attitudes, habits, or experiences.",
+        "subtypes": []
     },
-    {
-      "name": "neurobiological",
-      "abbreviation": "neurobio",
-      "description": "Data related to brain structure and function, often collected through neuroimaging techniques like fMRI or EEG. This category includes measures of brain activity, connectivity, and morphology.",
-      "subtypes": [
-        {
-          "name": "Functional Magnetic Resonance Imaging",
-          "abbreviation": "fmri",
-          "description": "A neuroimaging technique that measures brain activity by detecting changes in blood oxygenation (BOLD signal). It can be used to study functional brain networks, cognitive processes, and neural responses to tasks or stimuli."
-        },
-        {
-          "name": "Electroencephalography",
-          "abbreviation": "eeg",
-          "description": "A method for measuring electrical brain activity through electrodes placed on the scalp. It captures brain wave patterns and is commonly used to study cognition, attention, sleep, and neural responses to stimuli with high temporal resolution."
-        },
-        {
-          "name": "Structural Magnetic Resonance Imaging",
-          "abbreviation": "smri",
-          "description": "A neuroimaging technique that provides detailed anatomical images of the brain, allowing for the study of brain structure, volume, cortical thickness, and regional differences. It is used to examine brain development, aging, and structural abnormalities."
-        }
-      ]
+    "neurobiological": {
+        "name": "neurobiological",
+        "abbreviation": "neurobio",
+        "description": "Data related to brain structure and function, often collected through neuroimaging techniques like fMRI or EEG. This category includes measures of brain activity, connectivity, and morphology.",
+        "subtypes": [
+            {
+                "name": "Functional Magnetic Resonance Imaging",
+                "abbreviation": "fmri",
+                "description": "A neuroimaging technique that measures brain activity by detecting changes in blood oxygenation (BOLD signal). It can be used to study functional brain networks, cognitive processes, and neural responses to tasks or stimuli."
+            },
+            {
+                "name": "Electroencephalography",
+                "abbreviation": "eeg",
+                "description": "A method for measuring electrical brain activity through electrodes placed on the scalp. It captures brain wave patterns and is commonly used to study cognition, attention, sleep, and neural responses to stimuli with high temporal resolution."
+            },
+            {
+                "name": "Structural Magnetic Resonance Imaging",
+                "abbreviation": "smri",
+                "description": "A neuroimaging technique that provides detailed anatomical images of the brain, allowing for the study of brain structure, volume, cortical thickness, and regional differences. It is used to examine brain development, aging, and structural abnormalities."
+            }
+        ]
     },
-    {
-      "name": "physiological",
-      "abbreviation": "physio",
-      "description": "Data capturing bodily functions and autonomic nervous system activity, including heart rate, skin conductance (electrodermal activity), and respiration. These measures are often used to assess arousal, stress responses, or regulatory processes.",
-      "subtypes": [
-        {
-          "name": "Dynamometer (Grip Strength)",
-          "abbreviation": "dynamometer",
-          "description": "A measure of grip strength using a dynamometer, which assesses muscle strength and function. It is often used as an indicator of overall physical health, fatigue, or development."
-        },
-        {
-          "name": "Electrocardiography",
-          "abbreviation": "ecg",
-          "description": "ECG is a method for measuring the electrical activity of the heart using electrodes placed on the skin or a chest strap. It can be used to determine beat-to-beat intervals (BBIs) for heart rate variability (HRV) analysis, as well as to measure overall heart rate. Beat-to-beat interval (BBI) is the time between consecutive heartbeats, derived from heart rate recordings. It provides insights into heart rate variability (HRV), autonomic nervous system regulation, and physiological stress responses."
-        },
-        {
-          "name": "Electrodermal Activity",
-          "abbreviation": "eda",
-          "description": "Electrodermal activity (EDA), also known as skin conductance, measures changes in the skin’s electrical properties due to sweat gland activity. It reflects autonomic nervous system arousal, making it useful for assessing emotional and physiological responses to stimuli."
-        },
-        {
-          "name": "Respirometer (Respiration Measurement)",
-          "abbreviation": "respirometer",
-          "description": "The measurement of breathing rate and patterns, often used to assess autonomic regulation, stress responses, or physiological states. It can be analyzed in conjunction with other physiological signals like heart rate and EDA to understand broader bodily responses."
-        }
-      ]
+    "physiological": {
+        "name": "physiological",
+        "abbreviation": "physio",
+        "description": "Data capturing bodily functions and autonomic nervous system activity, including heart rate, skin conductance (electrodermal activity), and respiration. These measures are often used to assess arousal, stress responses, or regulatory processes.",
+        "subtypes": [
+            {
+                "name": "Dynamometer (Grip Strength)",
+                "abbreviation": "dynamometer",
+                "description": "A measure of grip strength using a dynamometer, which assesses muscle strength and function. It is often used as an indicator of overall physical health, fatigue, or development."
+            },
+            {
+                "name": "Electrocardiography",
+                "abbreviation": "ecg",
+                "description": "ECG is a method for measuring the electrical activity of the heart using electrodes placed on the skin or a chest strap. It can be used to determine beat-to-beat intervals (BBIs) for heart rate variability (HRV) analysis, as well as to measure overall heart rate. Beat-to-beat interval (BBI) is the time between consecutive heartbeats, derived from heart rate recordings. It provides insights into heart rate variability (HRV), autonomic nervous system regulation, and physiological stress responses."
+            },
+            {
+                "name": "Electrodermal Activity",
+                "abbreviation": "eda",
+                "description": "Electrodermal activity (EDA), also known as skin conductance, measures changes in the skin’s electrical properties due to sweat gland activity. It reflects autonomic nervous system arousal, making it useful for assessing emotional and physiological responses to stimuli."
+            },
+            {
+                "name": "Respirometer (Respiration Measurement)",
+                "abbreviation": "respirometer",
+                "description": "The measurement of breathing rate and patterns, often used to assess autonomic regulation, stress responses, or physiological states. It can be analyzed in conjunction with other physiological signals like heart rate and EDA to understand broader bodily responses."
+            }
+        ]
     },
-    {
-      "name": "ambulatory",
-      "abbreviation": "ambu",
-      "description": "Data collected in real-world settings through wearable devices or mobile assessments. This includes activity tracking, sleep monitoring, and ecological momentary assessments (EMA).",
-      "subtypes": [
-        {
-          "name": "Ecological Momentary Assessment",
-          "abbreviation": "esm",
-          "description": "A real-time, repeated self-report assessment method used to collect momentary experiences, emotions, and behaviors in daily life. Participants respond to surveys at multiple time points throughout the day, allowing researchers to track changes in psychological states and contexts."
-        }
-      ]
+    "ambulatory": {
+        "name": "ambulatory",
+        "abbreviation": "ambu",
+        "description": "Data collected in real-world settings through wearable devices or mobile assessments. This includes activity tracking, sleep monitoring, and ecological momentary assessments (EMA).",
+        "subtypes": [
+            {
+                "name": "Ecological Momentary Assessment",
+                "abbreviation": "esm",
+                "description": "A real-time, repeated self-report assessment method used to collect momentary experiences, emotions, and behaviors in daily life. Participants respond to surveys at multiple time points throughout the day, allowing researchers to track changes in psychological states and contexts."
+            }
+        ]
     },
-    {
-      "name": "biosample",
-      "abbreviation": "biosample",
-      "description": "Biological specimens, specifically saliva and hair, collected for hormonal and DNA analyses. These samples are used to study genetic markers, stress-related hormones (e.g., cortisol), or other biological factors.",
-      "subtypes": [
-        {
-          "name": "Hair Sample",
-          "abbreviation": "hair",
-          "description": "Collected for hormonal analysis, particularly long-term cortisol levels, which provide insights into chronic stress exposure over weeks to months."
-        },
-        {
-          "name": "Saliva Sample",
-          "abbreviation": "saliva",
-          "description": "Used for hormonal and DNA analyses, including short-term stress markers like cortisol and genetic studies. Saliva samples allow non-invasive collection of biomarkers relevant to stress, health, and behavior."
-        }
-      ]
+    "biosample": {
+        "name": "biosample",
+        "abbreviation": "biosample",
+        "description": "Biological specimens, specifically saliva and hair, collected for hormonal and DNA analyses. These samples are used to study genetic markers, stress-related hormones (e.g., cortisol), or other biological factors.",
+        "subtypes": [
+            {
+                "name": "Hair Sample",
+                "abbreviation": "hair",
+                "description": "Collected for hormonal analysis, particularly long-term cortisol levels, which provide insights into chronic stress exposure over weeks to months."
+            },
+            {
+                "name": "Saliva Sample",
+                "abbreviation": "saliva",
+                "description": "Used for hormonal and DNA analyses, including short-term stress markers like cortisol and genetic studies. Saliva samples allow non-invasive collection of biomarkers relevant to stress, health, and behavior."
+            }
+        ]
     },
-    {
-      "name": "interview",
-      "abbreviation": "int",
-      "description": "Data gathered through structured or semi-structured conversations, where participants provide verbal responses to questions. These can be used to gain in-depth qualitative insights or assess specific psychological constructs.",
-      "subtypes": []
+    "interview": {
+        "name": "interview",
+        "abbreviation": "int",
+        "description": "Data gathered through structured or semi-structured conversations, where participants provide verbal responses to questions. These can be used to gain in-depth qualitative insights or assess specific psychological constructs.",
+        "subtypes": []
     }
-  ]
 }

@@ -1,26 +1,30 @@
-[
-    {
+{
+    "eur": {
         "code": "A",
         "topic": "Social learning",
         "name": "A: Social learning",
-        "short-name": "eur"
+        "short-name": "eur",
+        "long-name": "Erasmus University Rotterdam"
     },
-    {
+    "vu": {
         "code": "B",
         "topic": "Learning in school context",
         "name": "B: Learning in school context",
-        "short-name": "vu"
+        "short-name": "vu",
+        "long-name": "Vrije Universiteit Amsterdam"
     },
-    {
+    "lei": {
         "code": "C",
         "topic": "Vicarious gains and social connection",
         "name": "C: Vicarious gains and social connection",
-        "short-name": "lei"
+        "short-name": "lei",
+        "long-name": "Universiteit Leiden"
     },
-    {
+    "aumc": {
         "code": "D",
         "topic": "Empathy",
         "name": "D: Empathy",
-        "short-name": "aumc"
+        "short-name": "aumc",
+        "long-name": "Amsterdam Universitair Medische Centra"
     }
-]
+}
