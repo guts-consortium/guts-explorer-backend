@@ -3,6 +3,7 @@
         "subject": "sub-gutsaumc0011",
         "session": "01",
         "age": 11,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -683,6 +684,7 @@
         "subject": "sub-gutsaumc0011",
         "session": "02",
         "age": 10,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -1363,6 +1365,7 @@
         "subject": "sub-gutsaumc0011",
         "session": "03",
         "age": 10,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -2043,6 +2046,7 @@
         "subject": "sub-gutsaumc0018",
         "session": "01",
         "age": 12,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -2723,6 +2727,7 @@
         "subject": "sub-gutsaumc0018",
         "session": "02",
         "age": 12,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -3403,6 +3408,7 @@
         "subject": "sub-gutsaumc0018",
         "session": "03",
         "age": 10,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -4083,6 +4089,7 @@
         "subject": "sub-gutsaumc0019",
         "session": "01",
         "age": 11,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -4763,6 +4770,7 @@
         "subject": "sub-gutsaumc0019",
         "session": "02",
         "age": 10,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -5443,6 +5451,7 @@
         "subject": "sub-gutsaumc0019",
         "session": "03",
         "age": 11,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -6123,6 +6132,7 @@
         "subject": "sub-gutsaumc0020",
         "session": "01",
         "age": 10,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -6803,6 +6813,7 @@
         "subject": "sub-gutsaumc0020",
         "session": "02",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -7483,6 +7494,7 @@
         "subject": "sub-gutsaumc0020",
         "session": "03",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -8163,6 +8175,7 @@
         "subject": "sub-gutsaumc0021",
         "session": "01",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -8843,6 +8856,7 @@
         "subject": "sub-gutsaumc0021",
         "session": "02",
         "age": 10,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -9523,6 +9537,7 @@
         "subject": "sub-gutsaumc0021",
         "session": "03",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -10203,6 +10218,7 @@
         "subject": "sub-gutsaumc0023",
         "session": "01",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -10883,6 +10899,7 @@
         "subject": "sub-gutsaumc0023",
         "session": "02",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -11563,6 +11580,7 @@
         "subject": "sub-gutsaumc0023",
         "session": "03",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -12243,6 +12261,7 @@
         "subject": "sub-gutsaumc0028",
         "session": "01",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -12923,6 +12942,7 @@
         "subject": "sub-gutsaumc0028",
         "session": "02",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -13603,6 +13623,7 @@
         "subject": "sub-gutsaumc0028",
         "session": "03",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -14283,6 +14304,7 @@
         "subject": "sub-gutsaumc0030",
         "session": "01",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -14963,6 +14985,7 @@
         "subject": "sub-gutsaumc0030",
         "session": "02",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -15643,6 +15666,7 @@
         "subject": "sub-gutsaumc0030",
         "session": "03",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -16323,6 +16347,7 @@
         "subject": "sub-gutsaumc0052",
         "session": "01",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -17003,6 +17028,7 @@
         "subject": "sub-gutsaumc0052",
         "session": "02",
         "age": 10,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -17683,6 +17709,7 @@
         "subject": "sub-gutsaumc0052",
         "session": "03",
         "age": 10,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -18363,6 +18390,7 @@
         "subject": "sub-gutsaumc0054",
         "session": "01",
         "age": 12,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -19043,6 +19071,7 @@
         "subject": "sub-gutsaumc0054",
         "session": "02",
         "age": 12,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -19723,6 +19752,7 @@
         "subject": "sub-gutsaumc0054",
         "session": "03",
         "age": 12,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -20403,6 +20433,7 @@
         "subject": "sub-gutsaumc0055",
         "session": "01",
         "age": 11,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -21083,6 +21114,7 @@
         "subject": "sub-gutsaumc0055",
         "session": "02",
         "age": 11,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -21763,6 +21795,7 @@
         "subject": "sub-gutsaumc0055",
         "session": "03",
         "age": 10,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -22443,6 +22476,7 @@
         "subject": "sub-gutsaumc0067",
         "session": "01",
         "age": 10,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -23123,6 +23157,7 @@
         "subject": "sub-gutsaumc0067",
         "session": "02",
         "age": 11,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -23803,6 +23838,7 @@
         "subject": "sub-gutsaumc0067",
         "session": "03",
         "age": 12,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -24483,6 +24519,7 @@
         "subject": "sub-gutsaumc0068",
         "session": "01",
         "age": 11,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -25163,6 +25200,7 @@
         "subject": "sub-gutsaumc0068",
         "session": "02",
         "age": 12,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -25843,6 +25881,7 @@
         "subject": "sub-gutsaumc0068",
         "session": "03",
         "age": 12,
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -26523,6 +26562,7 @@
         "subject": "sub-gutsaumc0069",
         "session": "01",
         "age": 12,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -27203,6 +27243,7 @@
         "subject": "sub-gutsaumc0069",
         "session": "02",
         "age": 12,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -27883,6 +27924,7 @@
         "subject": "sub-gutsaumc0069",
         "session": "03",
         "age": 10,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -28563,6 +28605,7 @@
         "subject": "sub-gutsaumc0070",
         "session": "01",
         "age": 10,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -29243,6 +29286,7 @@
         "subject": "sub-gutsaumc0070",
         "session": "02",
         "age": 10,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -29923,6 +29967,7 @@
         "subject": "sub-gutsaumc0070",
         "session": "03",
         "age": 10,
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -30603,6 +30648,7 @@
         "subject": "sub-gutsaumc5003",
         "session": "01",
         "age": 1,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -31283,6 +31329,7 @@
         "subject": "sub-gutsaumc5003",
         "session": "02",
         "age": 1,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -31963,6 +32010,7 @@
         "subject": "sub-gutsaumc5003",
         "session": "03",
         "age": 1,
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -32643,6 +32691,7 @@
         "subject": "sub-gutsaumc0011",
         "session": "01a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -33323,6 +33372,7 @@
         "subject": "sub-gutsaumc0018",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -34003,6 +34053,7 @@
         "subject": "sub-gutsaumc0019",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -34683,6 +34734,7 @@
         "subject": "sub-gutsaumc0020",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -35363,6 +35415,7 @@
         "subject": "sub-gutsaumc0021",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -36043,6 +36096,7 @@
         "subject": "sub-gutsaumc0023",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -36723,6 +36777,7 @@
         "subject": "sub-gutsaumc0028",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -37403,6 +37458,7 @@
         "subject": "sub-gutsaumc0030",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -38083,6 +38139,7 @@
         "subject": "sub-gutsaumc0052",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -38763,6 +38820,7 @@
         "subject": "sub-gutsaumc0054",
         "session": "01a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -39443,6 +39501,7 @@
         "subject": "sub-gutsaumc0055",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -40123,6 +40182,7 @@
         "subject": "sub-gutsaumc0067",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -40803,6 +40863,7 @@
         "subject": "sub-gutsaumc0068",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -41483,6 +41544,7 @@
         "subject": "sub-gutsaumc0069",
         "session": "01a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -42163,6 +42225,7 @@
         "subject": "sub-gutsaumc0070",
         "session": "01a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -42843,6 +42906,7 @@
         "subject": "sub-gutsaumc5003",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -43523,6 +43587,7 @@
         "subject": "sub-gutsaumc0011",
         "session": "02a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -44203,6 +44268,7 @@
         "subject": "sub-gutsaumc0018",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -44883,6 +44949,7 @@
         "subject": "sub-gutsaumc0019",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -45563,6 +45630,7 @@
         "subject": "sub-gutsaumc0020",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -46243,6 +46311,7 @@
         "subject": "sub-gutsaumc0021",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -46923,6 +46992,7 @@
         "subject": "sub-gutsaumc0023",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -47603,6 +47673,7 @@
         "subject": "sub-gutsaumc0028",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -48283,6 +48354,7 @@
         "subject": "sub-gutsaumc0030",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -48963,6 +49035,7 @@
         "subject": "sub-gutsaumc0052",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -49643,6 +49716,7 @@
         "subject": "sub-gutsaumc0054",
         "session": "02a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -50323,6 +50397,7 @@
         "subject": "sub-gutsaumc0055",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -51003,6 +51078,7 @@
         "subject": "sub-gutsaumc0067",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -51683,6 +51759,7 @@
         "subject": "sub-gutsaumc0068",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -52363,6 +52440,7 @@
         "subject": "sub-gutsaumc0069",
         "session": "02a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -53043,6 +53121,7 @@
         "subject": "sub-gutsaumc0070",
         "session": "02a",
         "age": "not found",
+        "sex": "male",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -53723,6 +53802,7 @@
         "subject": "sub-gutsaumc5003",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "aumc",
         "demographics": {
             "age": {
@@ -54403,6 +54483,7 @@
         "subject": "sub-gutseur0002",
         "session": "01",
         "age": 16,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -55083,6 +55164,7 @@
         "subject": "sub-gutseur0002",
         "session": "02",
         "age": 13,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -55763,6 +55845,7 @@
         "subject": "sub-gutseur0002",
         "session": "03",
         "age": 14,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -56443,6 +56526,7 @@
         "subject": "sub-gutseur0003",
         "session": "01",
         "age": 12,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -57123,6 +57207,7 @@
         "subject": "sub-gutseur0003",
         "session": "02",
         "age": 19,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -57803,6 +57888,7 @@
         "subject": "sub-gutseur0003",
         "session": "03",
         "age": 16,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -58483,6 +58569,7 @@
         "subject": "sub-gutseur0006",
         "session": "01",
         "age": 19,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -59163,6 +59250,7 @@
         "subject": "sub-gutseur0006",
         "session": "02",
         "age": 13,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -59843,6 +59931,7 @@
         "subject": "sub-gutseur0006",
         "session": "03",
         "age": 12,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -60523,6 +60612,7 @@
         "subject": "sub-gutseur0009",
         "session": "01",
         "age": 11,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -61203,6 +61293,7 @@
         "subject": "sub-gutseur0009",
         "session": "02",
         "age": 18,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -61883,6 +61974,7 @@
         "subject": "sub-gutseur0009",
         "session": "03",
         "age": 11,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -62563,6 +62655,7 @@
         "subject": "sub-gutseur0017",
         "session": "01",
         "age": 20,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -63243,6 +63336,7 @@
         "subject": "sub-gutseur0017",
         "session": "02",
         "age": 12,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -63923,6 +64017,7 @@
         "subject": "sub-gutseur0017",
         "session": "03",
         "age": 18,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -64603,6 +64698,7 @@
         "subject": "sub-gutseur0022",
         "session": "01",
         "age": 11,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -65283,6 +65379,7 @@
         "subject": "sub-gutseur0022",
         "session": "02",
         "age": 10,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -65963,6 +66060,7 @@
         "subject": "sub-gutseur0022",
         "session": "03",
         "age": 20,
+        "sex": "male",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -66643,6 +66741,7 @@
         "subject": "sub-gutseur0025",
         "session": "01",
         "age": 17,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -67323,6 +67422,7 @@
         "subject": "sub-gutseur0025",
         "session": "02",
         "age": 20,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -68003,6 +68103,7 @@
         "subject": "sub-gutseur0025",
         "session": "03",
         "age": 12,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -68683,6 +68784,7 @@
         "subject": "sub-gutseur0026",
         "session": "01",
         "age": 13,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -69363,6 +69465,7 @@
         "subject": "sub-gutseur0026",
         "session": "02",
         "age": 13,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -70043,6 +70146,7 @@
         "subject": "sub-gutseur0026",
         "session": "03",
         "age": 19,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -70723,6 +70827,7 @@
         "subject": "sub-gutseur0068",
         "session": "01",
         "age": 18,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -71403,6 +71508,7 @@
         "subject": "sub-gutseur0068",
         "session": "02",
         "age": 16,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -72083,6 +72189,7 @@
         "subject": "sub-gutseur0068",
         "session": "03",
         "age": 17,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -72763,6 +72870,7 @@
         "subject": "sub-gutseur0212",
         "session": "01",
         "age": 17,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -73443,6 +73551,7 @@
         "subject": "sub-gutseur0212",
         "session": "02",
         "age": 20,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -74123,6 +74232,7 @@
         "subject": "sub-gutseur0212",
         "session": "03",
         "age": 11,
+        "sex": "female",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -74803,6 +74913,7 @@
         "subject": "sub-gutseur0444",
         "session": "01",
         "age": 11,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -75483,6 +75594,7 @@
         "subject": "sub-gutseur0444",
         "session": "02",
         "age": 18,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -76163,6 +76275,7 @@
         "subject": "sub-gutseur0444",
         "session": "03",
         "age": 15,
+        "sex": "other",
         "cohort": "eur",
         "demographics": {
             "age": {
@@ -76843,6 +76956,7 @@
         "subject": "sub-gutslei0001",
         "session": "01",
         "age": 21,
+        "sex": "female",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -77523,6 +77637,7 @@
         "subject": "sub-gutslei0001",
         "session": "02",
         "age": 23,
+        "sex": "female",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -78203,6 +78318,7 @@
         "subject": "sub-gutslei0001",
         "session": "03",
         "age": 17,
+        "sex": "female",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -78883,6 +78999,7 @@
         "subject": "sub-gutslei0003",
         "session": "01",
         "age": 24,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -79563,6 +79680,7 @@
         "subject": "sub-gutslei0003",
         "session": "02",
         "age": 19,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -80243,6 +80361,7 @@
         "subject": "sub-gutslei0003",
         "session": "03",
         "age": 19,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -80923,6 +81042,7 @@
         "subject": "sub-gutslei0004",
         "session": "01",
         "age": 24,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -81603,6 +81723,7 @@
         "subject": "sub-gutslei0004",
         "session": "02",
         "age": 21,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -82283,6 +82404,7 @@
         "subject": "sub-gutslei0004",
         "session": "03",
         "age": 21,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -82963,6 +83085,7 @@
         "subject": "sub-gutslei0005",
         "session": "01",
         "age": 18,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -83643,6 +83766,7 @@
         "subject": "sub-gutslei0005",
         "session": "02",
         "age": 23,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -84323,6 +84447,7 @@
         "subject": "sub-gutslei0005",
         "session": "03",
         "age": 20,
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -85003,6 +85128,7 @@
         "subject": "sub-gutslei0007",
         "session": "01",
         "age": 18,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -85683,6 +85809,7 @@
         "subject": "sub-gutslei0007",
         "session": "02",
         "age": 23,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -86363,6 +86490,7 @@
         "subject": "sub-gutslei0007",
         "session": "03",
         "age": 18,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -87043,6 +87171,7 @@
         "subject": "sub-gutslei0234",
         "session": "01",
         "age": 21,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -87723,6 +87852,7 @@
         "subject": "sub-gutslei0234",
         "session": "02",
         "age": 21,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -88403,6 +88533,7 @@
         "subject": "sub-gutslei0234",
         "session": "03",
         "age": 24,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -89083,6 +89214,7 @@
         "subject": "sub-gutslei0321",
         "session": "01",
         "age": 24,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -89763,6 +89895,7 @@
         "subject": "sub-gutslei0321",
         "session": "02",
         "age": 23,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -90443,6 +90576,7 @@
         "subject": "sub-gutslei0321",
         "session": "03",
         "age": 20,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -91123,6 +91257,7 @@
         "subject": "sub-gutslei0812",
         "session": "01",
         "age": 21,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -91803,6 +91938,7 @@
         "subject": "sub-gutslei0812",
         "session": "02",
         "age": 19,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -92483,6 +92619,7 @@
         "subject": "sub-gutslei0812",
         "session": "03",
         "age": 20,
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -93163,6 +93300,7 @@
         "subject": "sub-gutslei0001",
         "session": "01a",
         "age": "not found",
+        "sex": "female",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -93843,6 +93981,7 @@
         "subject": "sub-gutslei0003",
         "session": "01a",
         "age": "not found",
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -94523,6 +94662,7 @@
         "subject": "sub-gutslei0004",
         "session": "01a",
         "age": "not found",
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -95203,6 +95343,7 @@
         "subject": "sub-gutslei0005",
         "session": "01a",
         "age": "not found",
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -95883,6 +96024,7 @@
         "subject": "sub-gutslei0007",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -96563,6 +96705,7 @@
         "subject": "sub-gutslei0234",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -97243,6 +97386,7 @@
         "subject": "sub-gutslei0321",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -97923,6 +98067,7 @@
         "subject": "sub-gutslei0812",
         "session": "01a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -98603,6 +98748,7 @@
         "subject": "sub-gutslei0001",
         "session": "02a",
         "age": "not found",
+        "sex": "female",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -99283,6 +99429,7 @@
         "subject": "sub-gutslei0003",
         "session": "02a",
         "age": "not found",
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -99963,6 +100110,7 @@
         "subject": "sub-gutslei0004",
         "session": "02a",
         "age": "not found",
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -100643,6 +100791,7 @@
         "subject": "sub-gutslei0005",
         "session": "02a",
         "age": "not found",
+        "sex": "male",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -101323,6 +101472,7 @@
         "subject": "sub-gutslei0007",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -102003,6 +102153,7 @@
         "subject": "sub-gutslei0234",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -102683,6 +102834,7 @@
         "subject": "sub-gutslei0321",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
@@ -103363,6 +103515,7 @@
         "subject": "sub-gutslei0812",
         "session": "02a",
         "age": "not found",
+        "sex": "other",
         "cohort": "lei",
         "demographics": {
             "age": {
