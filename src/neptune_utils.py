@@ -57,8 +57,8 @@ def get_metadata(endpoint, params = {}):
         auth=(USERNAME, PASSWORD),
         headers={'accept': 'application/json'},
         params=params,
-        verify=False,
-        # verify=str(CERT_PATH),
+        # verify=False,
+        verify=str(CERT_PATH),
     )
     # Break if request failed
     if r.status_code != 200:
