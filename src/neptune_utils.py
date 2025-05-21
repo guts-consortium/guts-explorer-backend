@@ -15,7 +15,8 @@ from config import Config
 provider_friendly_names = ["eur", "lei", "vu", "aumc"]
 temp_provider_mapping = {
     "erasmus-yoda": "eur",
-    "test-yoda": "aumc"
+    "test-yoda": "aumc",
+    "leiden-yoda": "lei",
 }
 temp_provider_friendly_names = list(temp_provider_mapping.keys())
 KNOWN_ENDPOINTS = [
