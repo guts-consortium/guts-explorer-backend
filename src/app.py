@@ -34,6 +34,7 @@ from neptune_utils import (
     invite_user,
     create_neptune_data_request,
 )
+import json
 
 # Setup flask app
 app = Flask(__name__)
@@ -82,7 +83,6 @@ def oidc_callback():
     tokens = get_oidc_token(app.config, code)
 
     if 'access_token' in tokens:
-        print("\nReceived access token!!!\n")
         # Store tokens securely in the session (server-side)
         session['access_token'] = tokens['access_token']
         session['id_token'] = tokens['id_token']
@@ -90,7 +90,6 @@ def oidc_callback():
         
         # Fetch user profile info from the OIDC UserInfo endpoint
         user_info = get_user_info(app.config, tokens['access_token'])
-        print(f"\n\nReceived user info:\n{user_info['name']}\n{user_info['email']}\n\n")
         if user_info:
             session['user_profile'] = user_info  # Store user profile in session
             # Redirect back to the frontend, include the profile info
@@ -127,16 +126,18 @@ def logout():
 def create_data_request():
     """Handle form submissions from the frontend and forward them securely to
     to the external Neptune API."""
-    print("Session contents: ", dict(session))
+    print("\nReceived data request payload from frontend")
     if not session.get('is_authenticated'):
         print("!User is not authenticated!")
         return jsonify({'error': 'Not authenticated'}), 401
-
+    print("User is authenticated; checking data:")
     incoming_data = request.json  # Data coming in from the frontend POST
-    print("Received data request payload from frontend:")
-    print(incoming_data)
+    print(f'- provider_friendly: {incoming_data["provider_friendly"]}')
+    print(f'- nr of file_paths: {len(incoming_data["file_paths"])}')
+    print(f'- user_data: {incoming_data["user_data"]}')
+    print(f'- form_data: {incoming_data["form_data"]}')
+    print("Making request to neptune...")
     api_response = create_neptune_data_request(incoming_data)
-
     if api_response.status_code == 200:
         return jsonify(api_response.json()), 200
     return jsonify({'error': 'Failed to submit form data'}), api_response.status_code
