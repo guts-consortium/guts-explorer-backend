@@ -34,7 +34,6 @@ from neptune_utils import (
     invite_user,
     create_neptune_data_request,
 )
-import json
 
 # Setup flask app
 app = Flask(__name__)

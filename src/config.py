@@ -28,3 +28,6 @@ class Config:
     SESSION_COOKIE_HTTPONLY = True
     SESSION_COOKIE_SAMESITE = 'Lax'
     # SESSION_COOKIE_SECURE = os.getenv('SESSION_COOKIE_SECURE', 'True').lower() == 'true'  # True in production
+    MSGRAPH_TENANT_ID = os.getenv('MSGRAPH_TENANT_ID')
+    MSGRAPH_CLIENT_ID = os.getenv('MSGRAPH_CLIENT_ID')
+    MSGRAPH_CLIENT_SECRET = os.getenv('MSGRAPH_CLIENT_SECRET')

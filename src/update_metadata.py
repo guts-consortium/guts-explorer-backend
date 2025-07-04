@@ -285,8 +285,11 @@ if file_metadata_added or subject_metadata_added or overview_metadata_added:
     write_json_to_file(existing_sessions, _sesspath)
 
 
-if len(available_providers) < 2:
-    print("WARNING: Active session(s) only from 1 provider, i.e. request creation to several providers cannot be tested.")
+if not file_metadata_added and not subject_metadata_added and not overview_metadata_added:
+    print(f"WARNING: No file-level, subject-level, or overview metadata available from any share-sessions.")
+else:
+    if len(available_providers) < 2:
+        print(f"WARNING: Active session(s) only from {len(available_providers)} provider, i.e. request creation to several providers cannot be tested.")
 
 print("Process of updating metadata completed.")
 
