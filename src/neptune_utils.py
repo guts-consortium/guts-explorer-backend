@@ -15,7 +15,8 @@ from config import Config
 provider_friendly_names = ["eur", "lei", "vu", "aumc"]
 temp_provider_mapping = {
     "erasmus-yoda": "eur",
-    "test-yoda": "aumc"
+    "test-yoda": "aumc",
+    "leiden-yoda": "lei",
 }
 temp_provider_friendly_names = list(temp_provider_mapping.keys())
 KNOWN_ENDPOINTS = [
@@ -46,7 +47,7 @@ def get_metadata(endpoint, params = {}):
         raise ValueError(f"Argument '{endpoint}' is not one of the allowed endpoint options")
     
     check_env()
-    
+
     if endpoint == "data_users":
         my_user = get_metadata("users/me")
         params["provider_id"] = my_user["provider_id"]
@@ -57,6 +58,7 @@ def get_metadata(endpoint, params = {}):
         auth=(USERNAME, PASSWORD),
         headers={'accept': 'application/json'},
         params=params,
+        # verify=False,
         verify=str(CERT_PATH),
     )
     # Break if request failed
