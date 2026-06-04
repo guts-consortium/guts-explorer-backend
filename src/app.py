@@ -92,7 +92,11 @@ def oidc_callback():
         if user_info:
             session['user_profile'] = user_info  # Store user profile in session
             # Redirect back to the frontend, include the profile info
-            return render_template('redirect_user_info.html', userinfo=user_info)
+            return render_template(
+                'redirect_user_info.html',
+                userinfo=user_info,
+                target=app.config['FRONTEND_URL'],
+            )
         else:
             return jsonify({'error': 'Failed to fetch user information'}), 400
 
