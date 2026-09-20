@@ -54,7 +54,7 @@ def get_metadata(endpoint, params = {}):
 
     # Get the desired metadata
     r = requests.get(
-        f"{BASE_URL}/{endpoint}/",
+        f"{BASE_URL}/{endpoint}{'' if endpoint == 'users/me' else '/'}",
         auth=(USERNAME, PASSWORD),
         headers={'accept': 'application/json'},
         params=params,
@@ -67,52 +67,6 @@ def get_metadata(endpoint, params = {}):
     # Response to JSON
     return r.json()
 
-
-def check_user(email):
-    user_endpoint = f"{BASE_URL}/{SRAM_USER_ENDPOINT}/{urllib.parse.quote_plus(email)}"
-    # Get the desired metadata
-    r = requests.get(
-        user_endpoint,
-        auth=(USERNAME, PASSWORD),
-        headers={'accept': 'application/json'},
-        params={},
-        verify=str(CERT_PATH),
-    )
-    # Break if request failed
-    if r.status_code != 200:
-        raise ValueError(f"Unsuccessful request: response code {r.status_code}")
-    return r.json()
-
-
-def invite_user(email):
-    user_endpoint = f"{BASE_URL}/{SRAM_USER_ENDPOINT}/{urllib.parse.quote_plus(email)}"
-    # Get the desired metadata
-    r = requests.post(
-        user_endpoint,
-        auth=(USERNAME, PASSWORD),
-        headers={'accept': 'application/json'},
-        params={},
-        verify=str(CERT_PATH),
-    )
-    # Break if request failed
-    if r.status_code != 200:
-        raise ValueError(f"Unsuccessful request: response code {r.status_code}")
-    return r.json()
-
-
-def delete_user(email):
-    user_endpoint = f"{BASE_URL}/{SRAM_USER_ENDPOINT}/{urllib.parse.quote_plus(email)}"
-    r = requests.delete(
-        user_endpoint,
-        auth=(USERNAME, PASSWORD),
-        headers={'accept': 'application/json'},
-        params={},
-        verify=str(CERT_PATH),
-    )
-    # Break if request failed
-    if r.status_code != 200:
-        raise ValueError(f"Unsuccessful request: response code {r.status_code}")
-    return r.json()
 
 def create_new_session(incoming_data):
     """"""

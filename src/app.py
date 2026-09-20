@@ -29,9 +29,6 @@ from oidc_utils import (
 )
 
 from neptune_utils import (
-    check_user,
-    delete_user,
-    invite_user,
     create_neptune_data_request,
 )
 
@@ -52,17 +49,6 @@ CORS(app, origins=[app.config['FRONTEND_URL']], supports_credentials=True)
 
 
 # API
-@app.route('/api/user/<email>', methods=['GET', 'POST', 'DELETE'])
-def user(email):
-    """"""
-    if request.method == 'POST':
-        return jsonify(invite_user(email))
-    if request.method == 'GET':
-        return jsonify(check_user(email))
-    if request.method == 'DELETE':
-        return jsonify(delete_user(email))
-
-
 @app.route('/api/login')
 def login():
     """Initiate the OIDC login process by redirecting the user to the authorization URL."""
